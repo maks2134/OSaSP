@@ -1,0 +1,8 @@
+# Игнорировать файлы сборки
+dirwalk.vpw
+dirwalk.vpwhist
+dirwalk.vtg
+dirwalk.vpj
+
+# Игнорировать все файлы в подкаталоге Debug
+Debug/*
